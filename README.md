@@ -1,1 +1,5 @@
-# myWebN09
+<?php
+// Hello World example
+echo "Hello World!";
+?>
+
